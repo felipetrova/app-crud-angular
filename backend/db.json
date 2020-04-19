@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "SHOULDER BAG KVRA",
+      "price": "139.90",
+      "id": 1
+    },
+    {
+      "name": "MALA KVRA BAG - VERDE",
+      "price": "149.90",
+      "id": 2
+    },
+    {
+      "name": "BONÉ GLACIAL",
+      "price": "119.90",
+      "id": 3
+    },
+    {
+      "name": "NOVA COLEIRA KVRA DOG",
+      "price": "124.90",
+      "id": 4
+    }
+  ]
+}
