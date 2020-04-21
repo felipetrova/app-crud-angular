@@ -1,0 +1,14 @@
+@import "../../../../assets/scss/constants";
+
+.sidenav {
+  background: #3F51B5;
+  width: 200px;
+
+  a {
+    color: $WHITE;
+
+    i {
+      padding-right: 10px;
+    }
+  }
+}
